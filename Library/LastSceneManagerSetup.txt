@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/BreakableItems/Scenes/Items.unity
+  isLoaded: 1
+  isActive: 1
